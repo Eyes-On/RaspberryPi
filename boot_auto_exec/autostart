@@ -1,0 +1,4 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+lxterminal -e python3 /home/pi/eyes-on/pi_camera_test_preview.py
+@xscreensaver -no-splash
